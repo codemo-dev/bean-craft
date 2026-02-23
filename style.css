@@ -151,6 +151,7 @@ header .contact-us:hover {
 .hero-sec .container .content a:hover {
     background: #e0b15a;
     color: #fff;
+    transform: scale(1.05);
 }
 
 /* types card style */
